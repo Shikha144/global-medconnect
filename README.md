@@ -2,13 +2,13 @@
 
 This GitHub repository outlines the early-stage development of my research concept, Global MedConnect, which I propose to carry out in collaboration with the respective research faculty.
 
-Global MedConnect is a digital platform designed to provide underserved or mobile populations with cross-border access to affordable, verified medical care. It combines principles of health equity, telemedicine, AI translation, and global digital health to overcome geographic, linguistic, and economic barriers in healthcare delivery.
+Global MedConnect is a digital platform designed to provide A Mobile Health Access Platform for Migrant Women as well as underserved or mobile populations with cross-border access to affordable, verified medical care. It combines principles of health equity, telemedicine, AI translation, and global digital health to overcome geographic, linguistic, and economic barriers in healthcare delivery.
 
 ---
 
 ## 🔹 Problem Statement
 
-Millions of patients—especially migrants, uninsured individuals, or those in medical deserts—struggle to access reliable, affordable healthcare across borders. Language barriers, financial opacity, and lack of verified information amplify health inequities. There is a critical need for a centralized platform that allows:
+Millions of patients—especially migrants women's, uninsured individuals, or those in medical deserts—struggle to access reliable, affordable healthcare across borders. Language barriers, financial opacity, and lack of verified information amplify health inequities. There is a critical need for a centralized platform that allows:
 
 - Price-transparent, cross-country medical treatment comparisons
 - Secure sharing and translation of medical records
