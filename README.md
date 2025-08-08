@@ -17,17 +17,17 @@ Millions of patients—especially migrants women's, uninsured individuals, or th
 
 ---
 
-## 🔹 Research Objectives
+## 📌 Vision
 
-This project aims to:
-1. Design and prototype a web-based platform connecting patients with global healthcare options
-2. Use AI/NLP tools to translate and summarize medical reports and prescriptions
-3. Build a cost comparison engine using live currency and treatment data
-4. Pilot partnerships with clinics and hospitals in multiple countries
-
-This aligns well with interdisciplinary research interests in global health, digital equity, health policy, and responsible AI.
-
----
+- Millions of migrants, travelers, and expatriates face barriers to healthcare access due to:
+  
+- Language differences
+- Lack of familiarity with local healthcare systems
+- Cultural gaps in patient–doctor communication
+- Global MedConnect aims to bridge this gap by enabling patients to:
+- Search for and connect with healthcare providers in their preferred language
+- Access culturally appropriate medical consultations
+- Request telemedicine appointments across borders
 
 ## 🔹 Proposed Use Cases
 
@@ -37,13 +37,28 @@ This aligns well with interdisciplinary research interests in global health, dig
 - Medical tourism with verified provider transparency
 
 ---
+ 
+## 🛠️ Tech Stack
 
-## 🔹 Technology Overview
+- Frontend: HTML5, CSS3, JavaScript (Vanilla)
+- Responsive Design: Mobile-first structure (CSS flexbox-based)
+- Data: Sample in-memory provider list (JS array)
+ 
+## 🚀 Features in This Prototype
 
-- Frontend: HTML, CSS, JavaScript (MVP) → React (future)
-- Backend (planned): Node.js or Firebase
-- APIs:
-  - Google Maps API (provider search)
-  - Stripe API (international payments)
-  - OpenAI API (translation, summarization of medical documents)
-  - Twilio API (alerts)
+- Home Page with introductory overview
+- Provider Directory dynamically generated from JavaScript data
+- Consultation Request Form with basic validation
+- Section Navigation without page reloads
+- Responsive Layout for mobile and desktop
+
+ 
+## 💡 Future Development Plans
+
+- The complete version of Global MedConnect will integrate:
+- Secure backend with Node.js/Express or Django
+- Database for provider and patient records (e.g., PostgreSQL, MongoDB)
+- Real-time appointment booking system
+- End-to-end encryption for telemedicine calls
+- AI-based provider recommendation matching patients’ language, country, and specialty
+- Integration with EHR/EMR systems and insurance portability options - 
