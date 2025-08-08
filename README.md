@@ -63,3 +63,5 @@ Millions of patients—especially migrants women's, uninsured individuals, or th
 - AI-based provider recommendation matching patients’ language, country, and specialty
 - Integration with EHR/EMR systems and insurance portability options
 
+## Live Demo  
+You can view the live prototype here:[Global MedConnect Prototype](https://shikha144.github.io/global-medconnect/)
