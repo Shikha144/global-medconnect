@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Global MedConnect Prototype</title>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<h1>Global MedConnect</h1>
+
+<div id="home-section">
+  <p>Welcome to Global MedConnect — your digital bridge to cross-border healthcare access. Connect with culturally competent doctors from your home country or preferred language.</p>
+  <button onclick="showSection('consultation')">Request Consultation</button>
+  <button onclick="showSection('providers')">View Providers</button>
+</div>
+
+<div id="providers-section" class="hidden">
+  <h2>Available Healthcare Providers</h2>
+  <ul id="provider-list"></ul>
+  <button onclick="showSection('home')">Back</button>
+</div>
+
+<div id="consultation-section" class="hidden">
+  <h2>Request a Telemedicine Consultation</h2>
+  <form id="consultation-form">
+    <label for="name">Full Name:</label>
+    <input type="text" id="name" name="name" required />
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required />
+
+    <label for="country">Your Country:</label>
+    <input type="text" id="country" name="country" required />
+
+    <label for="language">Preferred Language:</label>
+    <input type="text" id="language" name="language" required />
+
+    <label for="issue">Medical Issue / Reason for Consultation:</label>
+    <textarea id="issue" name="issue" rows="4" required></textarea>
+
+    <label for="provider">Select Provider:</label>
+    <select id="provider" name="provider" required>
+      <option value="">-- Choose a provider --</option>
+    </select>
+
+    <button type="submit">Submit Request</button>
+    <button type="button" onclick="showSection('home')">Cancel</button>
+  </form>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
