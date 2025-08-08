@@ -63,6 +63,3 @@ Millions of patients—especially migrants women's, uninsured individuals, or th
 - AI-based provider recommendation matching patients’ language, country, and specialty
 - Integration with EHR/EMR systems and insurance portability options
 
-### 🖼️ Preview
-![Home Page](Screenshot2025-08-08165916.png)
-![Provider Directory](screenshots/directory.png) 
