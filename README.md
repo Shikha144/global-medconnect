@@ -63,7 +63,7 @@ Millions of patients—especially migrants women's, uninsured individuals, or th
 - AI-based provider recommendation matching patients’ language, country, and specialty
 - Integration with EHR/EMR systems and insurance portability options
 
-  ## 🛠️ Technical Research Focus
+## 🛠️ Technical Research Focus
   
 As I transition into my MSCS coursework, I plan to leverage this platform to explore:
 
