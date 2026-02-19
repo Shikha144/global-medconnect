@@ -63,5 +63,15 @@ Millions of patients—especially migrants women's, uninsured individuals, or th
 - AI-based provider recommendation matching patients’ language, country, and specialty
 - Integration with EHR/EMR systems and insurance portability options
 
+  ## 🛠️ Technical Research Focus
+  
+As I transition into my MSCS coursework, I plan to leverage this platform to explore:
+
+Distributed Architecture: Ensuring high availability and low latency for cross-border telemedicine users across decentralized nodes.
+
+Data Security: Implementing robust encryption and HIPAA-compliant data pipelines for sensitive medical record translation.
+
+Database Scalability: Designing efficient schemas to handle multi-lingual provider registries and global patient data.
+
 ## Live Demo  
 You can view the live prototype here:[Global MedConnect Prototype](https://shikha144.github.io/global-medconnect/)
